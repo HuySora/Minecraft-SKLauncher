@@ -1,5 +1,18 @@
 {
   "profiles": {
+    "264bf4b560054729997617011fb56391": {
+      "name": "Create-AaB",
+      "gameDir": ".CreateAaB",
+      "lastVersionId": "1.16.5-forge-36.2.42",
+      "resolution": {
+        "width": 854,
+        "height": 480,
+        "fullscreen": false
+      },
+      "type": "custom",
+      "created": "2024-04-29T01:24:12+07:00",
+      "lastUsed": "2024-04-29T01:24:12+07:00"
+    },
     "fb4861002d6144f9862e6c39f9bbd092": {
       "name": "",
       "type": "latest-release",
@@ -13,7 +26,7 @@
       "lastUsed": "2024-04-29T00:38:06+07:00"
     }
   },
-  "selectedProfile": "fb4861002d6144f9862e6c39f9bbd092",
+  "selectedProfile": "264bf4b560054729997617011fb56391",
   "settings": {
     "enableAdvanced": false,
     "profileSorting": "byName"
