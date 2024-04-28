@@ -1,0 +1,31 @@
+{
+  "profiles": {
+    "707a2e3b75d34ceba2612491a3556094": {
+      "name": "",
+      "type": "latest-release",
+      "created": "2025-02-14T13:26:46+07:00",
+      "lastUsed": "2025-02-14T13:26:46+07:00"
+    },
+    "8160c1786b8449c197502bcb8ca13b19": {
+      "name": "",
+      "type": "latest-snapshot",
+      "created": "2025-02-14T13:26:46+07:00",
+      "lastUsed": "2025-02-14T13:26:46+07:00"
+    }
+  },
+  "selectedProfile": "707a2e3b75d34ceba2612491a3556094",
+  "settings": {
+    "crashAssistance": false,
+    "enableAdvanced": false,
+    "enableAnalytics": false,
+    "enableHistorical": false,
+    "enableReleases": false,
+    "enableSnapshots": false,
+    "keepLauncherOpen": false,
+    "profileSorting": "byName",
+    "showGameLog": false,
+    "showMenu": false,
+    "soundOn": false
+  },
+  "version": 4
+}
