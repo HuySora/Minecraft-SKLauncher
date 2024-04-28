@@ -1,0 +1,4 @@
+jdk.gtk.version=3
+prism.text=t2k
+prism.lcdtext=false
+java.net.preferIPv4Stack=true

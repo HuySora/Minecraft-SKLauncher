@@ -1,0 +1,14 @@
+{
+  "accounts": {
+    "6572a9a86e6c3b2680a099f8daabe907": {
+      "displayName": "Unknown",
+      "type": "msa",
+      "userid": "6572a9a86e6c3b2680a099f8daabe907",
+      "uuid": "6572a9a86e6c3b2680a099f8daabe907",
+      "username": "Unknown",
+      "refreshToken": "e70db80d6cb740e097492b7f514e5f58"
+    }
+  },
+  "activeAccountLocalId": "6572a9a86e6c3b2680a099f8daabe907",
+  "mojangClientToken": ""
+}
