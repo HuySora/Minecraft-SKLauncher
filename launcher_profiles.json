@@ -13,6 +13,19 @@
       "created": "2024-04-29T01:24:12+07:00",
       "lastUsed": "2024-04-29T01:24:12+07:00"
     },
+    "db752c9745b54e75ab1cf0b5b4eb0dd2": {
+      "name": "VaultHunters3",
+      "gameDir": ".VaultHunters3",
+      "lastVersionId": "1.18.2-forge-40.2.18",
+      "resolution": {
+        "width": 854,
+        "height": 480,
+        "fullscreen": false
+      },
+      "type": "custom",
+      "created": "2024-04-29T03:59:53+07:00",
+      "lastUsed": "2024-04-29T04:00:45+07:00"
+    },
     "fb4861002d6144f9862e6c39f9bbd092": {
       "name": "",
       "type": "latest-release",
@@ -26,7 +39,7 @@
       "lastUsed": "2024-04-29T00:38:06+07:00"
     }
   },
-  "selectedProfile": "264bf4b560054729997617011fb56391",
+  "selectedProfile": "db752c9745b54e75ab1cf0b5b4eb0dd2",
   "settings": {
     "enableAdvanced": false,
     "profileSorting": "byName"
