@@ -1,3 +1,6 @@
 [submodule "Create-Above-and-Beyond"]
 	path = .CreateAaB
 	url = https://github.com/HuySora/Minecraft-CreateAaB.git
+[submodule ".VaultHunters3"]
+	path = .VaultHunters3
+	url = https://github.com/HuySora/Minecraft-VaultHunters3.git
