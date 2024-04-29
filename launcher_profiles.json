@@ -26,6 +26,19 @@
       "created": "2024-04-29T03:59:53+07:00",
       "lastUsed": "2024-04-29T04:00:45+07:00"
     },
+    "3f89427b0cd84e40b1d70f2eb2ccee12": {
+      "name": "SteamPunk",
+      "gameDir": ".SteamPunk",
+      "lastVersionId": "1.19.2-forge-43.3.13",
+      "resolution": {
+        "width": 854,
+        "height": 480,
+        "fullscreen": false
+      },
+      "type": "custom",
+      "created": "2024-04-29T18:45:00+07:00",
+      "lastUsed": "2024-04-29T18:45:29+07:00"
+    },
     "fb4861002d6144f9862e6c39f9bbd092": {
       "name": "",
       "type": "latest-release",
@@ -39,7 +52,7 @@
       "lastUsed": "2024-04-29T00:38:06+07:00"
     }
   },
-  "selectedProfile": "db752c9745b54e75ab1cf0b5b4eb0dd2",
+  "selectedProfile": "3f89427b0cd84e40b1d70f2eb2ccee12",
   "settings": {
     "enableAdvanced": false,
     "profileSorting": "byName"
