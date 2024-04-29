@@ -4,3 +4,6 @@
 [submodule ".VaultHunters3"]
 	path = .VaultHunters3
 	url = https://github.com/HuySora/Minecraft-VaultHunters3.git
+[submodule ".SteamPunk"]
+	path = .SteamPunk
+	url = https://github.com/HuySora/Minecraft-SteamPunk.git
