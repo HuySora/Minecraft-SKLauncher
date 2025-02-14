@@ -25,6 +25,20 @@
       "type": "latest-snapshot",
       "created": "2025-02-14T13:26:46+07:00",
       "lastUsed": "2025-02-14T13:26:46+07:00"
+    },
+    "68880b7d2dd24df08d4ce1a3e4fcd907": {
+      "name": "MysticHorizons",
+      "gameDir": "C:\\Users\\huytr\\AppData\\Roaming\\.minecraft\\.MysticHorizons",
+      "lastVersionId": "1.20.1-forge-47.3.22",
+      "resolution": {
+        "width": 854,
+        "height": 480,
+        "fullscreen": false
+      },
+      "memoryMax": 8192,
+      "type": "custom",
+      "created": "2025-02-14T22:45:47+07:00",
+      "lastUsed": "2025-02-14T22:47:02+07:00"
     }
   },
   "selectedProfile": "707a2e3b75d34ceba2612491a3556094",
