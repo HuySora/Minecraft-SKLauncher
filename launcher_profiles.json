@@ -1,5 +1,19 @@
 {
   "profiles": {
+    "ace0ddcf1d8243f5875e37aa12fc3e64": {
+      "name": "Create-ArcaneEngr",
+      "gameDir": ".CreateArcaneEngr",
+      "lastVersionId": "1.18.2-forge-40.2.9",
+      "resolution": {
+        "width": 1600,
+        "height": 900,
+        "fullscreen": false
+      },
+      "memoryMax": 8192,
+      "type": "custom",
+      "created": "2025-02-14T20:51:21+07:00",
+      "lastUsed": "2025-02-14T20:51:21+07:00"
+    },
     "707a2e3b75d34ceba2612491a3556094": {
       "name": "",
       "type": "latest-release",
