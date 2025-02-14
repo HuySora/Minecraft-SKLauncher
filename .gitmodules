@@ -1,3 +1,6 @@
 [submodule ".CreateArcaneEngr"]
 	path = .CreateArcaneEngr
 	url = https://github.com/HuySora/Minecraft-CreateArcaneEngr.git
+[submodule ".MysticHorizons"]
+	path = .MysticHorizons
+	url = https://github.com/HuySora/Minecraft-MysticHorizons.git
