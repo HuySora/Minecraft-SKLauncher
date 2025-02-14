@@ -24,9 +24,6 @@
     },
     {
       "name": "com.github.oshi:oshi-core:6.2.2",
-      "domain": "com.github.oshi",
-      "packageName": "oshi-core",
-      "version": "6.2.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar",
@@ -37,9 +34,6 @@
     },
     {
       "name": "com.google.code.gson:gson:2.10",
-      "domain": "com.google.code.gson",
-      "packageName": "gson",
-      "version": "2.10",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10/gson-2.10.jar",
@@ -50,9 +44,6 @@
     },
     {
       "name": "com.google.guava:failureaccess:1.0.1",
-      "domain": "com.google.guava",
-      "packageName": "failureaccess",
-      "version": "1.0.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
@@ -63,9 +54,6 @@
     },
     {
       "name": "com.google.guava:guava:31.1-jre",
-      "domain": "com.google.guava",
-      "packageName": "guava",
-      "version": "31.1-jre",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
@@ -76,9 +64,6 @@
     },
     {
       "name": "com.ibm.icu:icu4j:71.1",
-      "domain": "com.ibm.icu",
-      "packageName": "icu4j",
-      "version": "71.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/71.1/icu4j-71.1.jar",
@@ -89,9 +74,6 @@
     },
     {
       "name": "com.mojang:authlib:4.0.43",
-      "domain": "com.mojang",
-      "packageName": "authlib",
-      "version": "4.0.43",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/authlib/4.0.43/authlib-4.0.43.jar",
@@ -102,9 +84,6 @@
     },
     {
       "name": "com.mojang:blocklist:1.0.10",
-      "domain": "com.mojang",
-      "packageName": "blocklist",
-      "version": "1.0.10",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
@@ -115,9 +94,6 @@
     },
     {
       "name": "com.mojang:brigadier:1.1.8",
-      "domain": "com.mojang",
-      "packageName": "brigadier",
-      "version": "1.1.8",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar",
@@ -128,9 +104,6 @@
     },
     {
       "name": "com.mojang:datafixerupper:6.0.8",
-      "domain": "com.mojang",
-      "packageName": "datafixerupper",
-      "version": "6.0.8",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar",
@@ -141,9 +114,6 @@
     },
     {
       "name": "com.mojang:logging:1.1.1",
-      "domain": "com.mojang",
-      "packageName": "logging",
-      "version": "1.1.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/logging/1.1.1/logging-1.1.1.jar",
@@ -154,9 +124,6 @@
     },
     {
       "name": "com.mojang:patchy:2.2.10",
-      "domain": "com.mojang",
-      "packageName": "patchy",
-      "version": "2.2.10",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
@@ -167,9 +134,6 @@
     },
     {
       "name": "com.mojang:text2speech:1.17.9",
-      "domain": "com.mojang",
-      "packageName": "text2speech",
-      "version": "1.17.9",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar",
@@ -180,9 +144,6 @@
     },
     {
       "name": "commons-codec:commons-codec:1.15",
-      "domain": "commons-codec",
-      "packageName": "commons-codec",
-      "version": "1.15",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.15/commons-codec-1.15.jar",
@@ -193,9 +154,6 @@
     },
     {
       "name": "commons-io:commons-io:2.11.0",
-      "domain": "commons-io",
-      "packageName": "commons-io",
-      "version": "2.11.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
@@ -206,9 +164,6 @@
     },
     {
       "name": "commons-logging:commons-logging:1.2",
-      "domain": "commons-logging",
-      "packageName": "commons-logging",
-      "version": "1.2",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
@@ -219,9 +174,6 @@
     },
     {
       "name": "io.netty:netty-buffer:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-buffer",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar",
@@ -232,9 +184,6 @@
     },
     {
       "name": "io.netty:netty-codec:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-codec",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar",
@@ -245,9 +194,6 @@
     },
     {
       "name": "io.netty:netty-common:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-common",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar",
@@ -258,9 +204,6 @@
     },
     {
       "name": "io.netty:netty-handler:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-handler",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar",
@@ -271,9 +214,6 @@
     },
     {
       "name": "io.netty:netty-resolver:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-resolver",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar",
@@ -284,9 +224,6 @@
     },
     {
       "name": "io.netty:netty-transport-classes-epoll:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-transport-classes-epoll",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar",
@@ -333,9 +270,6 @@
     },
     {
       "name": "io.netty:netty-transport-native-unix-common:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-transport-native-unix-common",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar",
@@ -346,9 +280,6 @@
     },
     {
       "name": "io.netty:netty-transport:4.1.82.Final",
-      "domain": "io.netty",
-      "packageName": "netty-transport",
-      "version": "4.1.82.Final",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar",
@@ -359,9 +290,6 @@
     },
     {
       "name": "it.unimi.dsi:fastutil:8.5.9",
-      "domain": "it.unimi.dsi",
-      "packageName": "fastutil",
-      "version": "8.5.9",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar",
@@ -372,9 +300,6 @@
     },
     {
       "name": "net.java.dev.jna:jna-platform:5.12.1",
-      "domain": "net.java.dev.jna",
-      "packageName": "jna-platform",
-      "version": "5.12.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar",
@@ -385,9 +310,6 @@
     },
     {
       "name": "net.java.dev.jna:jna:5.12.1",
-      "domain": "net.java.dev.jna",
-      "packageName": "jna",
-      "version": "5.12.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
@@ -398,9 +320,6 @@
     },
     {
       "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
-      "domain": "net.sf.jopt-simple",
-      "packageName": "jopt-simple",
-      "version": "5.0.4",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
@@ -411,9 +330,6 @@
     },
     {
       "name": "org.apache.commons:commons-compress:1.21",
-      "domain": "org.apache.commons",
-      "packageName": "commons-compress",
-      "version": "1.21",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar",
@@ -424,9 +340,6 @@
     },
     {
       "name": "org.apache.commons:commons-lang3:3.12.0",
-      "domain": "org.apache.commons",
-      "packageName": "commons-lang3",
-      "version": "3.12.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
@@ -437,9 +350,6 @@
     },
     {
       "name": "org.apache.httpcomponents:httpclient:4.5.13",
-      "domain": "org.apache.httpcomponents",
-      "packageName": "httpclient",
-      "version": "4.5.13",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
@@ -450,9 +360,6 @@
     },
     {
       "name": "org.apache.httpcomponents:httpcore:4.4.15",
-      "domain": "org.apache.httpcomponents",
-      "packageName": "httpcore",
-      "version": "4.4.15",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar",
@@ -463,9 +370,6 @@
     },
     {
       "name": "org.apache.logging.log4j:log4j-api:2.19.0",
-      "domain": "org.apache.logging.log4j",
-      "packageName": "log4j-api",
-      "version": "2.19.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar",
@@ -476,9 +380,6 @@
     },
     {
       "name": "org.apache.logging.log4j:log4j-core:2.19.0",
-      "domain": "org.apache.logging.log4j",
-      "packageName": "log4j-core",
-      "version": "2.19.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar",
@@ -489,9 +390,6 @@
     },
     {
       "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.19.0",
-      "domain": "org.apache.logging.log4j",
-      "packageName": "log4j-slf4j2-impl",
-      "version": "2.19.0",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar",
@@ -502,9 +400,6 @@
     },
     {
       "name": "org.joml:joml:1.10.5",
-      "domain": "org.joml",
-      "packageName": "joml",
-      "version": "1.10.5",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/joml/joml/1.10.5/joml-1.10.5.jar",
@@ -515,9 +410,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-glfw:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-glfw",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
@@ -582,10 +474,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-glfw:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-glfw",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -604,10 +492,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-glfw",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -626,10 +510,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-glfw:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-glfw",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -648,9 +528,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-jemalloc:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-jemalloc",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
@@ -715,10 +592,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-jemalloc",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -737,10 +610,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-jemalloc",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -759,10 +628,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-jemalloc:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-jemalloc",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -781,9 +646,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-openal:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-openal",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
@@ -848,10 +710,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-openal",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -870,10 +728,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-openal",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -892,10 +746,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-openal:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-openal",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -914,9 +764,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-opengl:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-opengl",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
@@ -981,10 +828,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-opengl",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -1003,10 +846,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-opengl",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -1025,10 +864,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-opengl:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-opengl",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -1047,9 +882,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-stb:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-stb",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
@@ -1114,10 +946,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-stb:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-stb",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -1136,10 +964,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-stb:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-stb",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -1158,10 +982,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-stb:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-stb",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -1180,9 +1000,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-tinyfd:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-tinyfd",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
@@ -1247,10 +1064,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-tinyfd",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -1269,10 +1082,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-tinyfd",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -1291,10 +1100,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl-tinyfd:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl-tinyfd",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -1313,9 +1118,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl:3.3.1",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl",
-      "version": "3.3.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
@@ -1380,10 +1182,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl:3.3.1:natives-windows",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl",
-      "version": "3.3.1",
-      "classifier": "natives-windows",
       "rules": [
         {
           "action": "allow",
@@ -1402,10 +1200,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl:3.3.1:natives-windows-arm64",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl",
-      "version": "3.3.1",
-      "classifier": "natives-windows-arm64",
       "rules": [
         {
           "action": "allow",
@@ -1424,10 +1218,6 @@
     },
     {
       "name": "org.lwjgl:lwjgl:3.3.1:natives-windows-x86",
-      "domain": "org.lwjgl",
-      "packageName": "lwjgl",
-      "version": "3.3.1",
-      "classifier": "natives-windows-x86",
       "rules": [
         {
           "action": "allow",
@@ -1446,9 +1236,6 @@
     },
     {
       "name": "org.slf4j:slf4j-api:2.0.1",
-      "domain": "org.slf4j",
-      "packageName": "slf4j-api",
-      "version": "2.0.1",
       "downloads": {
         "artifact": {
           "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",

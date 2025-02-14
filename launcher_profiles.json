@@ -28,7 +28,7 @@
     },
     "68880b7d2dd24df08d4ce1a3e4fcd907": {
       "name": "MysticHorizons",
-      "gameDir": "C:\\Users\\huytr\\AppData\\Roaming\\.minecraft\\.MysticHorizons",
+      "gameDir": ".MysticHorizons",
       "lastVersionId": "1.20.1-forge-47.3.22",
       "resolution": {
         "width": 854,
