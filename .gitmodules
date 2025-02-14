@@ -4,3 +4,6 @@
 [submodule ".MysticHorizons"]
 	path = .MysticHorizons
 	url = https://github.com/HuySora/Minecraft-MysticHorizons.git
+[submodule ".Prominence2"]
+	path = .Prominence2
+	url = https://github.com/HuySora/Minecraft-Prominence2.git
