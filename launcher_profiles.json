@@ -39,6 +39,20 @@
       "type": "custom",
       "created": "2025-02-14T22:45:47+07:00",
       "lastUsed": "2025-02-14T22:47:02+07:00"
+    },
+    "2312e4b85684479ea643c84a43cf6226": {
+      "name": "Prominence2",
+      "gameDir": ".Prominence2",
+      "lastVersionId": "fabric-loader-0.16.10-1.20.1",
+      "resolution": {
+        "width": 1600,
+        "height": 900,
+        "fullscreen": false
+      },
+      "memoryMax": 8192,
+      "type": "custom",
+      "created": "2025-02-15T00:03:14+07:00",
+      "lastUsed": "2025-02-15T00:03:14+07:00"
     }
   },
   "selectedProfile": "707a2e3b75d34ceba2612491a3556094",
