@@ -44,7 +44,7 @@ function Update-Submodule {
             git clean -fdx
             git reset --hard "@{u}"
             # Also re-setup the modpack to avoid multiple stash push-pop
-            Setup-Modpack -modpackPath "."
+            Setup-Modpack -modpackPath " "
         }
         finally {
             # Pop stash
